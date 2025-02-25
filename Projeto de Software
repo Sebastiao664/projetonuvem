@@ -1,0 +1,11 @@
+No contexto empresarial, a estratégia é manter o controle de seus produtos e do
+desenvolvimento do produto de software, para tanto é imprescindível manter os
+artefatos: requisitos de software, revisão e validação de requisitos, documentações
+adjacentes, diagramas, manuais, casos de testes, código-fonte, designs, entre outros.
+Os líderes de projetos fazem planos para a construção de artefatos, sejam os códigosfonte ou documentações, para serem compartilhados com os membros do projeto de
+forma controlada e segura. Portanto, a iniciativa no uso de repositório em ferramenta de
+Gestão de Configuração se torna um recurso eficiente para a guarda dos artefatos e,
+futuramente, para o controle de versões.
+A decisão da criação desse repositório foi definida com a participação dos responsáveis
+pelas áreas da Estratégia, Governança, ITIL, COBIT e ESG (Environmental, Social and
+Governance) da organização.
